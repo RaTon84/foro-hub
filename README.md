@@ -49,8 +49,6 @@ Permite a los usuarios buscar tópicos específicos por diferentes criterios, fa
 
 <p align="center"> <img src="images/DB_USUARIO.png.png" alt=""></p>
 
-<p align="center"> <img src="images/swagger.png" alt=""></p>
-
 <p align="center"> <img src="images/swaggerr.png" alt=""></p>
 
 
